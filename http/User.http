@@ -1,0 +1,9 @@
+### 유저 생성
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "userId": "bactoria",
+  "name": "박토리아",
+  "password": "박토123"
+}
