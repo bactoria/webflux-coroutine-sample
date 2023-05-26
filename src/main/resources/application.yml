@@ -1,0 +1,6 @@
+r2dbc:
+  host: localhost
+  port: 3306
+  database: webflux
+  username: bacto
+  password: bactopass
